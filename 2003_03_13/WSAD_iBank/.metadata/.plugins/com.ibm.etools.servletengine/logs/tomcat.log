@@ -1,0 +1,6 @@
+2003-01-15 12:06:51 - ContextManager: Adding context Ctx(  )
+2003-01-15 12:06:52 - ContextManager: Adding context Ctx( /uddiexplorer )
+2003-01-15 12:06:53 - PoolTcpConnector: Starting HttpConnectionHandler on 1413
+2003-01-15 12:06:53 - PoolTcpConnector: Starting Ajp12ConnectionHandler on 1414
+2003-01-15 04:18:24 - ContextManager: Removing context Ctx(  )
+2003-01-15 04:18:24 - ContextManager: Removing context Ctx( /uddiexplorer )
